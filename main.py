@@ -4,7 +4,7 @@ import streamlit as st
 st.title("Hello Streamlit! 👋")
 
 # Display your name
-st.write("My name is Anandu")
+st.write("My name is vishnu")
 
 # Add some styling with markdown
 st.markdown("### Welcome to my first Streamlit app!")
